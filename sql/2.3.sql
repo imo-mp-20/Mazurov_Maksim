@@ -1,0 +1,4 @@
+-- 2.3
+SELECT *
+FROM CUSTOMERS
+WHERE CITY != 'Ковров';
